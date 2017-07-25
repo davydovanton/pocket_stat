@@ -1,0 +1,4 @@
+project=pocket_stat
+architecture=container
+test=rspec
+template=slim
